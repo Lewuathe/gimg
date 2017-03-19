@@ -1,4 +1,4 @@
-# gimg - Terminal Image Viewer
+# gimg - Terminal Image Viewer [![Build Status](https://travis-ci.org/Lewuathe/gimg.svg?branch=master)](https://travis-ci.org/Lewuathe/gimg)
 Printing image in terminal by ANSI/VT100 Control sequences. This is inspired by [timg](https://github.com/hzeller/timg).
 
 ![sample](./gimg/sample.png)
