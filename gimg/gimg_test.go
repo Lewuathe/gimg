@@ -11,6 +11,7 @@ func TestAnsi(t *testing.T) {
 	if err != nil {
 		t.Error("Fail to open test.jpg")
 	}
+	defer file.Close()
 
 	testImage, err := jpeg.Decode(file)
 	if err != nil {

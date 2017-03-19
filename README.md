@@ -1,5 +1,5 @@
-# gimg
-Printing image in terminal by ANSI/VT100 Control sequences
+# gimg - Terminal Image Viewer
+Printing image in terminal by ANSI/VT100 Control sequences. This is inspired by [timg](https://github.com/hzeller/timg).
 
 # Install
 
