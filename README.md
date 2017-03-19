@@ -1,6 +1,8 @@
 # gimg - Terminal Image Viewer
 Printing image in terminal by ANSI/VT100 Control sequences. This is inspired by [timg](https://github.com/hzeller/timg).
 
+![sample](./gimg/sample.png)
+
 # Install
 
 ```
@@ -16,7 +18,6 @@ $ $GOPATH/bin/gimg someimage.jpg
 
 Will print the image in your terminal with resizing.
 
-![sample](./gimg/sample.png)
 
 # License
 
