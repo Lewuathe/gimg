@@ -4,7 +4,8 @@ Printing image in terminal by ANSI/VT100 Control sequences
 # Install
 
 ```
-$ go get github.com/Lewuathe/gimg
+$ git clone git@github.com:Lewuathe/gimg.git
+$ go install github.com/Lewuathe/gimg
 ```
 
 # Usage
