@@ -10,6 +10,10 @@ $ git clone git@github.com:Lewuathe/gimg.git
 $ go install github.com/Lewuathe/gimg
 ```
 
+```
+$ go get github.com/Lewuathe/gimg
+```
+
 # Usage
 
 ```
